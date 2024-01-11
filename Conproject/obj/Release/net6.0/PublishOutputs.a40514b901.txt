@@ -1,0 +1,5 @@
+F:\.Net projects\phase4\Conproject\Conproject\bin\Release\net6.0\publish\Conproject.exe
+F:\.Net projects\phase4\Conproject\Conproject\bin\Release\net6.0\publish\Conproject.dll
+F:\.Net projects\phase4\Conproject\Conproject\bin\Release\net6.0\publish\Conproject.deps.json
+F:\.Net projects\phase4\Conproject\Conproject\bin\Release\net6.0\publish\Conproject.runtimeconfig.json
+F:\.Net projects\phase4\Conproject\Conproject\bin\Release\net6.0\publish\Conproject.pdb

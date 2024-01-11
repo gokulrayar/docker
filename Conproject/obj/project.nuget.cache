@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fE4+8Bs00Wahs8sMZqZNqWLyBrga/UnUZD/7x9g8oUcj6TOdEVFRBA3VtaPMfWkYkFY3aCiCFWbsewp4oDKNWA==",
+  "success": true,
+  "projectFilePath": "F:\\.Net projects\\phase4\\Conproject\\Conproject\\Conproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

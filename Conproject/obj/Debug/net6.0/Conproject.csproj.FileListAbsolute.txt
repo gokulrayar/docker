@@ -1,0 +1,14 @@
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.AssemblyInfoInputs.cache
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.AssemblyInfo.cs
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.csproj.CoreCompileInputs.cache
+F:\.Net projects\phase4\Conproject\Conproject\bin\Debug\net6.0\Conproject.exe
+F:\.Net projects\phase4\Conproject\Conproject\bin\Debug\net6.0\Conproject.deps.json
+F:\.Net projects\phase4\Conproject\Conproject\bin\Debug\net6.0\Conproject.runtimeconfig.json
+F:\.Net projects\phase4\Conproject\Conproject\bin\Debug\net6.0\Conproject.dll
+F:\.Net projects\phase4\Conproject\Conproject\bin\Debug\net6.0\Conproject.pdb
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.dll
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\refint\Conproject.dll
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.pdb
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\Conproject.genruntimeconfig.cache
+F:\.Net projects\phase4\Conproject\Conproject\obj\Debug\net6.0\ref\Conproject.dll
